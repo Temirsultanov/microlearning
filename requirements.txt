@@ -1,5 +1,9 @@
+asgiref==3.3.1
 dj-database-url==0.5.0
 Django==3.1.5
 gunicorn==20.0.4
+Pymem @ git+https://github.com/srounet/Pymem@a0ff5a8b6817be12aae5184a4a33af89c05ec552
+pytz==2020.5
+sqlparse==0.4.1
 psycopg2==2.6.2
 whitenoise==5.2.0
